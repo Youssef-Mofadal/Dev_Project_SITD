@@ -1,0 +1,80 @@
+.site-footer {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center; 
+}
+
+.footer-section {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 50px;
+}
+
+#section1 {
+    text-align: left; 
+}
+
+#section2 {
+    text-align: center; 
+}
+
+ #section3 {
+    text-align: right; 
+}
+
+#section1 {
+    width: 200px;
+}
+
+#section2 {
+    width: 400px;
+}
+
+#section3 {
+    width: 100px;
+}
+
+.footer-logo {
+    width: 100px;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+#businessName {
+    font-size: 3em;
+    font-family: 'Brush Script MT', cursive;
+    color: #FF8C00;
+    display: inline-block;
+     
+}
+
+.social-icons {
+    margin-top: 10px;
+}
+
+.social-icons a {
+    display: block;
+    margin-bottom: 5px;
+}
+
+.social-icons a {
+    display: block; 
+    margin-bottom: 5px; 
+}
+
+.social-icons img {
+    width: 30px;
+    height: auto;
+}
+
+.footer-line {
+    border: 1px solid white;
+    margin: 20px 0;
+}
+
+.copyright {
+    text-align: center;
+    font-size: 14px;
+    margin-top: 20px;
+}
